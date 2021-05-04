@@ -1,0 +1,19 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "command line role playing game",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Studzic/jest-another-rpg.git"
+  },
+  "author": "austin dudzic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Studzic/jest-another-rpg/issues"
+  },
+  "homepage": "https://github.com/Studzic/jest-another-rpg#readme"
+}
