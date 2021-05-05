@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Studzic/jest-another-rpg/issues"
   },
-  "homepage": "https://github.com/Studzic/jest-another-rpg#readme"
+  "homepage": "https://github.com/Studzic/jest-another-rpg#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
 }
